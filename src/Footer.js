@@ -16,7 +16,7 @@ const Footer = () => (
     <section className="footer">
 
           <a>
-<FaEnvelope />  <FiFacebook/>  <FaTwitter/>  <FaFacebook/>
+<FaEnvelope/>  <FiFacebook/>  <FaTwitter/>  <FaFacebook/>
           </a>
 
       <p className="copyright">&copy; GigabyteCrippler</p>

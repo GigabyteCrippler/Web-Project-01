@@ -7,13 +7,13 @@ import {NavBar} from './NavBar';
 function App() {
   return (
     <div className="App">
-  <div>
-  <NavBar/>
+    <div>
+      <NavBar/>
    </div>
 
-<div>
+    <div>
       <Footer/>
-</div>
+    </div>
     </div>
   );
 }
