@@ -1,6 +1,7 @@
 ## Web-Project-01
-Building a series of projects with web technologies 
+Building a series of projects with web technologies , Projects are constantly being updated
 
+Built using Reactjs , <a href='https://react-icons.github.io/search'> React Icons </a> ,
 
 
 
