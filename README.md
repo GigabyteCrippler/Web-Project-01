@@ -1,6 +1,7 @@
 ## Web-Project-01
 Building a series of projects with web technologies 
 
+React Icons <a href='https://react-icons.github.io/search'> React Icons </a>
 
 
 
